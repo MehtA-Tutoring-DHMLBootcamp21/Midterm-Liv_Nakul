@@ -13,7 +13,7 @@
             <p>Insert analysis here</p>
             <h3>Our resources</h3>
             <a href="https://spacy.io/usage/linguistic-features#named-entities">spaCy's Named Entity Recognition</a>
-            <p> </p>
+            <br>
             <a href="https://towardsdatascience.com/named-entity-recognition-ner-using-spacy-nlp-part-4-28da2ece57c6">NER article</a>
             <h3>View Our Code!</h3>
             <script src="https://gist.github.com/HaripriyaMehta/f9403a041cd14ca145dc15619faf3ec0.js"></script>
