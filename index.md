@@ -16,7 +16,7 @@
             <br>
             <a href="https://towardsdatascience.com/named-entity-recognition-ner-using-spacy-nlp-part-4-28da2ece57c6">NER article</a>
             <h3>View Our Code!</h3>
-            <script src="https://gist.github.com/HaripriyaMehta/f9403a041cd14ca145dc15619faf3ec0.js"></script>
+            <script src="https://gist.github.com/nakulSolai/065609b7bf0261d12616a6332c5a6534.js"></script>
         </div>
     </body>  
 </html>
